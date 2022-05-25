@@ -1,0 +1,168 @@
+.header-section{
+  
+   text-align: center;
+   background: rgb(63, 10, 252);
+       padding: 1px 5px;
+       color: rgb(252, 252, 252);
+
+}
+.banner-section{
+
+}
+.contain-section{
+text-align: center;
+}
+.p-fast{
+color: #ffcf40;
+}
+.p-secend{
+color: #84e4f7;
+}
+.p-last{
+color: #3284fd;
+}
+/* .div-1{
+    border: 2px solid red;
+    width: 55px;
+    height: 5px;
+} */
+.div-22 {
+    /* background-color: #f49f9f; */
+    display: block;
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    text-align: center;
+    height: 54px;
+    border: 3px solid aquamarine;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+/* .div-2 {
+    height: 22px;
+    /* width: 191px; */
+    /* background-color: aqua; */
+    /* text-align: center; */
+    /* border: 3px solid; */
+} */
+.main-div {
+    border: px solid red;
+    /* width: 600px; */
+    height: 800px;
+}
+.div-3 {
+    width: 600px;
+    height: 200px;
+    border-radius: 0px 62px 62px 0px;
+    background-color:#7d4b4b;
+    margin-left: 178px;
+    text-align: center;
+}
+.wedh2 {
+    color: #e8d5d5;
+    margin-top: 93px;
+    position: absolute;
+    margin-left: 202px;
+    font-size: 32px;
+}
+.div-4 {
+    width: 600px;
+    height: 200px;
+    background-color: #4f7d4b;
+    margin-left: 740px;
+    text-align: center;
+    border-radius: 62px 0px 0px 62px;
+}
+.web3 {
+    color: #f49f9f;
+    position: absolute;
+    margin-top: 91px;
+    font-size: 32px;
+    margin-left: 218px;
+}
+.div-5 {
+    width: 600px;
+    height: 200px;
+    background-color: #340e9d;
+    border-radius: 0px 62px 62px 0px;
+    text-align: center;
+    /* margin-top: 28px; */
+    margin-left: 178px;
+}
+.web9 {
+    color: #daecd5;
+    position: absolute;
+    margin-left: 177px;
+    margin-top: 97px;
+    font-size: 32px;
+}
+.div-contact {
+    /* background-color: #f49f9f; */
+    text-align: center;
+    margin-bottom: 21px;
+    padding: 1px 18px 1px 30px;
+    height: 54px;
+    border: 4px solid aquamarine;
+    margin-top: 25px;
+}
+.div-from {
+    text-align: center;
+    margin-bottom: 15px;
+}
+.batton {
+    background-color: aqua;
+    padding: 11px;
+    border-radius: 9px;
+}
+.fotter-section {
+    text-align: center;
+    color: aliceblue;
+    background: #0c0e0d;
+    padding: 2px;
+}
+.hoyna{
+    color: aquamarine;
+}
+.sex {
+    color: aquamarine;
+    /* position: absolute; */
+    margin-top: 4px;
+    font-size: 26px;
+    text-align: center;
+}
+
+.box {
+    width: 221px;
+    height: 49px;
+    border-radius: 14px;
+    text-align: center;
+}
+.box-2 {
+    width: 221px;
+    height: 49px;
+    border-radius: 14px;
+    text-align: center;
+}
+.box-3 {
+    width: 221px;
+    height: 49px;
+    border-radius: 14px;
+    text-align: center;
+}
+.box-4 {
+    width: 221px;
+    height: 49px;
+    border-radius: 14px;
+    text-align: center;
+}
+.box-5 {
+    background-color: #84e4f7;
+    border: -26px;
+    border-radius: 10px;
+    text-align: center;
+    margin-top: 3px;
+}
+.massage{
+    color: #ffcf40;
+}
